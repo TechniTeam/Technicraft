@@ -3,6 +3,7 @@ package Technicraft.mod.main;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
+import net.minecraft.item.EnumRarity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import Technicraft.Technicraft.mod.Blocks.amethystOre;
@@ -28,7 +29,7 @@ import cpw.mods.fml.common.network.NetworkRegistry;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
-
+import Technicraft.Technicraft.mod.Items.*;
 @Mod(modid=References.MODID, name="Technicraft", version=References.MODID)
 
 public class Main {
@@ -80,8 +81,8 @@ public class Main {
 	public void preInit(FMLPreInitializationEvent event){
 	
 		//Gems
-		ultraGem = new Item().setUnlocalizedName("UltraGem").setCreativeTab(Technicraft).setTextureName("technicraft:gem_ultra");
-		GameRegistry.registerItem(ultraGem, "Ultra Gem");
+		ultraGem = new Item().setUnlocalizedName("UltraGem").setTextureName("technicraft:gem_ultra").setCreativeTab(Technicraft);
+		GameRegistry.registerItem(ultraGem, "Ultra Gem");	
 		rubyGem = new Item().setUnlocalizedName("RubyGem").setCreativeTab(Technicraft).setTextureName("technicraft:gem_ruby");
 		GameRegistry.registerItem(rubyGem, "Ruby Gem");
 		sapphireGem = new Item().setUnlocalizedName("SapphireGem").setCreativeTab(Technicraft).setTextureName("technicraft:gem_sapphire");
