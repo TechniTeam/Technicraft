@@ -1,0 +1,31 @@
+itemGroup.Technicraft=Technicraft
+
+container.grinder=Grinder Mk I
+
+item.UltraGem.name=Ultra Gem
+item.AmethystGem.name=Amethyst
+item.SapphireGem.name=Sapphire
+item.RubyGem.name=Ruby
+item.TopazGem.name=Topaz
+
+item.CopperIngot.name=Copper Ingot
+item.TinIngot.name=Tin Ingot
+item.LeadIngot.name=Lead Ingot
+item.AluminiumIngot.name=Aluminium Ingot
+
+item.CopperDust.name=Copper Dust
+item.TinDust.name=Tin Dust
+item.LeadDust.name=Lead Dust
+item.AluminiumDust.name=Aluminium Dust
+item.GoldDust.name=Gold Dust
+item.IronDust.name=Iron Dust
+
+tile.CopperOre.name=Copper Ore
+tile.TinOre.name=Tin Ore
+tile.LeadOre.name=Lead Ore
+tile.AluminumOre.name=Aluminum Ore
+tile.TopazOre.name=Topaz Ore
+tile.RubyOre.name=Ruby Ore
+tile.SapphireOre.name=Sapphire Ore
+tile.AmethystOre.name=Amethyst Ore
+tile.grinder.name=Grinder
