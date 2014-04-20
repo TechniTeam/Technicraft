@@ -1,6 +1,6 @@
-package wiiboy222.mod.Blocks.Grinder;
+package Technicraft.Technicraft.mod.Blocks.Grinder;
 
-import wiiboy.mod.main.Main;
+import Technicraft.mod.main.Main;
 import net.minecraft.block.Block;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;

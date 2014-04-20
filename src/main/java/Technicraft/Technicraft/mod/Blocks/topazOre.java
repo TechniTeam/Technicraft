@@ -1,4 +1,4 @@
-package wiiboy222.mod.Blocks;
+package Technicraft.Technicraft.mod.Blocks;
 
 import java.util.Random;
 
@@ -21,7 +21,7 @@ public class topazOre extends Block {
 		this.setHarvestLevel("pickaxe", 2);
 	}
 		public Item getItemDropped(int metadata, Random random, int fortune) {
-			return wiiboy.mod.main.Main.topazGem;
+			return Technicraft.mod.main.Main.topazGem;
 		}
 		public int getExpDrop(IBlockAccess block, int i, int j)
 		{

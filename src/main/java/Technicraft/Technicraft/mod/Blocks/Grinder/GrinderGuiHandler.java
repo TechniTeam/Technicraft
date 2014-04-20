@@ -1,8 +1,8 @@
-package wiiboy222.mod.Blocks.Grinder;
+package Technicraft.Technicraft.mod.Blocks.Grinder;
 
-import wiiboy222.mod.Blocks.Grinder.GuiGrinder;
-import wiiboy222.mod.Blocks.Grinder.ContainerGrinder;
-import wiiboy222.mod.Blocks.Grinder.TileEntityGrinder;
+import Technicraft.Technicraft.mod.Blocks.Grinder.GuiGrinder;
+import Technicraft.Technicraft.mod.Blocks.Grinder.ContainerGrinder;
+import Technicraft.Technicraft.mod.Blocks.Grinder.TileEntityGrinder;
 import cpw.mods.fml.common.network.IGuiHandler;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.tileentity.TileEntity;

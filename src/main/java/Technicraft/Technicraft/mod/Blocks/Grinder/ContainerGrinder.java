@@ -1,7 +1,7 @@
-package wiiboy222.mod.Blocks.Grinder;
+package Technicraft.Technicraft.mod.Blocks.Grinder;
 
-import wiiboy222.mod.Blocks.Grinder.GrinderRecipes;
-import wiiboy222.mod.Blocks.Grinder.TileEntityGrinder;
+import Technicraft.Technicraft.mod.Blocks.Grinder.GrinderRecipes;
+import Technicraft.Technicraft.mod.Blocks.Grinder.TileEntityGrinder;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.entity.player.EntityPlayer;

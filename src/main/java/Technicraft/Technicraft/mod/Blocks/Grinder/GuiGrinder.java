@@ -1,7 +1,7 @@
-package wiiboy222.mod.Blocks.Grinder;
+package Technicraft.Technicraft.mod.Blocks.Grinder;
 
-import wiiboy222.mod.Blocks.Grinder.ContainerGrinder;
-import wiiboy222.mod.Blocks.Grinder.TileEntityGrinder;
+import Technicraft.Technicraft.mod.Blocks.Grinder.ContainerGrinder;
+import Technicraft.Technicraft.mod.Blocks.Grinder.TileEntityGrinder;
 import net.minecraft.client.gui.inventory.GuiContainer;
 import net.minecraft.client.resources.I18n;
 import net.minecraft.entity.player.InventoryPlayer;

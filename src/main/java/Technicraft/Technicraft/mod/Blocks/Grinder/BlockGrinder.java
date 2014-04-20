@@ -1,9 +1,9 @@
-package wiiboy222.mod.Blocks.Grinder;
+package Technicraft.Technicraft.mod.Blocks.Grinder;
 
-import wiiboy.mod.main.Main;
-import wiiboy222.mod.lib.References;
-import wiiboy222.mod.lib.ProxyCommon;
-import wiiboy222.mod.Blocks.Grinder.TileEntityGrinder;
+import Technicraft.mod.main.Main;
+import Technicraft.Technicraft.mod.lib.References;
+import Technicraft.Technicraft.mod.lib.ProxyCommon;
+import Technicraft.Technicraft.mod.Blocks.Grinder.TileEntityGrinder;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;

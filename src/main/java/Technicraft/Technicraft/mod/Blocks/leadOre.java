@@ -1,4 +1,4 @@
-package wiiboy222.mod.Blocks;
+package Technicraft.Technicraft.mod.Blocks;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

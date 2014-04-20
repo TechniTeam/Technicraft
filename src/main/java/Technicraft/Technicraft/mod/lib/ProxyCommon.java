@@ -1,4 +1,4 @@
-package wiiboy222.mod.lib;
+package Technicraft.Technicraft.mod.lib;
 
 public class ProxyCommon {
 

@@ -1,4 +1,4 @@
-package wiiboy222.mod.Blocks;
+package Technicraft.Technicraft.mod.Blocks;
 
 import java.util.Random;
 
@@ -20,7 +20,7 @@ public class sapphireOre extends Block {
 		this.setHarvestLevel("pickaxe", 2);
 	}
 		public Item getItemDropped(int metadata, Random random, int fortune) {
-			return wiiboy.mod.main.Main.sapphireGem;
+			return Technicraft.mod.main.Main.sapphireGem;
 		}
 		public int getExpDrop(IBlockAccess block, int i, int j)
 		{
