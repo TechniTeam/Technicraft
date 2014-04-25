@@ -1,6 +1,7 @@
 itemGroup.Technicraft=Technicraft
 
-container.grinder=Grinder Mk I
+container.grinder=Grinder
+container.compressor=Compressor
 
 item.UltraGem.name=Ultra Gem
 item.AmethystGem.name=Amethyst
@@ -12,6 +13,8 @@ item.CopperIngot.name=Copper Ingot
 item.TinIngot.name=Tin Ingot
 item.LeadIngot.name=Lead Ingot
 item.AluminiumIngot.name=Aluminium Ingot
+item.ChromiumIngot.name=Chromium Ingot
+item.SilverIngot.name=Silver Ingot
 
 item.CopperDust.name=Copper Dust
 item.TinDust.name=Tin Dust
@@ -19,6 +22,8 @@ item.LeadDust.name=Lead Dust
 item.AluminiumDust.name=Aluminium Dust
 item.GoldDust.name=Gold Dust
 item.IronDust.name=Iron Dust
+item.SilverDust.name=Silver Dust
+item.ChromiumDust.name=Chromium Dust
 
 tile.CopperOre.name=Copper Ore
 tile.TinOre.name=Tin Ore
@@ -29,3 +34,14 @@ tile.RubyOre.name=Ruby Ore
 tile.SapphireOre.name=Sapphire Ore
 tile.AmethystOre.name=Amethyst Ore
 tile.grinder.name=Grinder
+
+tile.CopperBlock.name=Copper Block
+tile.TinBlock.name=Tin Block
+tile.LeadBlock.name=Lead Block
+tile.AluminiumBlock.name=Aluminum Block
+tile.SilverBlock.name=Silver Block
+tile.ChromiumBlock.name=Chromium Block
+tile.SapphireBlock.name=Sapphire Block
+tile.AmethystBlock.name=Amethyst Block
+tile.RubyBlock.name=Ruby Block
+tile.TopazBlock.name=Topaz Block
