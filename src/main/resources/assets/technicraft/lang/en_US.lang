@@ -1,9 +1,10 @@
-itemGroup.Technicraft=Technicraft
+itemGroup.Technicraft=§a§l§k|||§r§l§cTechnicraft§r§a§l§k|||
 
-container.grinder=Grinder
-container.compressor=Compressor
+container.grinder=§3Grinder
 
-item.UltraGem.name=Ultra Gem
+item.WrenchDrill.name=§eDrill
+
+item.UltraGem.name=§9Ultra Gem
 item.AmethystGem.name=Amethyst
 item.SapphireGem.name=Sapphire
 item.RubyGem.name=Ruby
@@ -29,11 +30,14 @@ tile.CopperOre.name=Copper Ore
 tile.TinOre.name=Tin Ore
 tile.LeadOre.name=Lead Ore
 tile.AluminumOre.name=Aluminum Ore
+tile.ChromiumOre.name=Chromium Ore
+tile.SilverOre.name=Silver Ore
 tile.TopazOre.name=Topaz Ore
 tile.RubyOre.name=Ruby Ore
 tile.SapphireOre.name=Sapphire Ore
 tile.AmethystOre.name=Amethyst Ore
-tile.grinder.name=Grinder
+
+tile.grinder.name=§bGrinder
 
 tile.CopperBlock.name=Copper Block
 tile.TinBlock.name=Tin Block
@@ -45,3 +49,7 @@ tile.SapphireBlock.name=Sapphire Block
 tile.AmethystBlock.name=Amethyst Block
 tile.RubyBlock.name=Ruby Block
 tile.TopazBlock.name=Topaz Block
+tile.BasaltBlock.name=Basalt Block
+tile.MarbleBlock.name=Marble Block
+tile.MarbleCobble.name=Marble Cobblestone
+tile.BasaltCobble.name=Basalt Cobblestone
